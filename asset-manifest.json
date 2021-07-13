@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Generala/static/css/main.1651d728.chunk.css",
+    "main.js": "/Generala/static/js/main.c2a60991.chunk.js",
+    "main.js.map": "/Generala/static/js/main.c2a60991.chunk.js.map",
+    "runtime-main.js": "/Generala/static/js/runtime-main.d940f7ba.js",
+    "runtime-main.js.map": "/Generala/static/js/runtime-main.d940f7ba.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/Generala/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.49bdccf5.chunk.js": "/Generala/static/js/2.49bdccf5.chunk.js",
+    "static/js/2.49bdccf5.chunk.js.map": "/Generala/static/js/2.49bdccf5.chunk.js.map",
+    "index.html": "/Generala/index.html",
+    "precache-manifest.af7b10c733072a127444c2acdaeb03b5.js": "/Generala/precache-manifest.af7b10c733072a127444c2acdaeb03b5.js",
+    "service-worker.js": "/Generala/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/Generala/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.1651d728.chunk.css.map": "/Generala/static/css/main.1651d728.chunk.css.map",
+    "static/js/2.49bdccf5.chunk.js.LICENSE.txt": "/Generala/static/js/2.49bdccf5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d940f7ba.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.49bdccf5.chunk.js",
+    "static/css/main.1651d728.chunk.css",
+    "static/js/main.c2a60991.chunk.js"
+  ]
+}
